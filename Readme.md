@@ -1,4 +1,4 @@
-# xtUML-TTD---Timepoints
+# xtUML-TTD-Timepoints
   Using the time traveling debugger, time points may be persisted and compared with each other.
 
 These time points can be create manually during a paused execution, or at the end of a completed execution. 
