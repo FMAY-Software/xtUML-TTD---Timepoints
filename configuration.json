@@ -1,1 +1,15 @@
-{"name":"xtUML-TTD---Timepoints","description":"Using the time traveling debugger, time points may be persisted and compared with each other.\n\nThese time points can be create manually during a paused execution, or at the end of a completed execution. \n\nThe captured data could then be compared against another time point using xtUML Model Compare.  This would provide a valuable tool in determining the cause for a regression failures.","email":"www.fmay.net","repository_name":"xtUML-TTD---Timepoints","home":"https://github.com/FMAY-Software/xtUML-TTD---Timepoints","deliverables":[{"target":"None","url":"None"}],"demonstration":{"url":""},"owner":{"first_name":"FMAY-Incubator","last_name":"","email":"travis.london@fmay.net","phone":"5203730727"}}
+{
+  "name":"xtUML-TTD-Timepoints",
+  "description":"Using the time traveling debugger, time points may be persisted and compared with each other.\n\nThese time points can be create manually during a paused execution, or at the end of a completed execution. \n\nThe captured data could then be compared against another time point using xtUML Model Compare.  This would provide a valuable tool in determining the cause for a regression failures.",
+  "email":"www.fmay.net",
+  "repository_name":"xtUML-TTD---Timepoints",
+  "home":"https://github.com/FMAY-Software/xtUML-TTD---Timepoints",
+  "deliverables":[{"target":"None","url":"None"}],
+  "demonstration":{"url":""},
+  "owner":{
+      "first_name":"FMAY-Incubator",
+      "last_name":"",
+      "email":"travis.london@fmay.net",
+      "phone":"5203730727"
+  }
+}
