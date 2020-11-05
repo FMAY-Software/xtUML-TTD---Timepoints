@@ -1,6 +1,4 @@
-# xtUML-TTD-Timepoints
-
-Project site
+# xtUML-TTD-Timepoints Project site
 
 ## Description
   
